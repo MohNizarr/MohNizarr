@@ -31,5 +31,3 @@ A Data Science graduate experienced in data processing, analysis, modeling, and 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[MohNizarr]/[MohNizarr]/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[MohNizarr]/[MohNizarr]/output/pacman-contribution-graph.svg">
 </picture>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
