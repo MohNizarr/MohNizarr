@@ -12,6 +12,6 @@ A Data Science graduate experienced in data processing, analysis, modeling, and 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohNizarr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🐍 My GitHub Contribution Snake
-![snake animation](https://raw.githubusercontent.com/MohNizarr/<repo-kamu>/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/MohNizarr/MohNizarr/output/github-contribution-grid-snake.svg)
 
 
