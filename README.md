@@ -1,18 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+😄+Welcome+to+My+Github)](https://git.io/typing-svg)
-<!--
-**MohNizarr/MohNizarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 💫 About Me:
 A Data Science graduate experienced in data processing, analysis, modeling, and visualization, as well as in developing Machine Learning and AI solutions. Possesses strong technical skills, including Python, SQL, Power BI, and Excel. Committed to making a significant impact through data-driven solutions that contribute to business efficiency and informed decision-making.
 
@@ -24,7 +11,6 @@ A Data Science graduate experienced in data processing, analysis, modeling, and 
 ![](https://nirzak-streak-stats.vercel.app/?user=MohNizarr&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohNizarr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[MohNizarr]/[MohNizarr]/output/pacman-contribution-graph-dark.svg">
