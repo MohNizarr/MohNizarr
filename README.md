@@ -12,8 +12,6 @@ A Data Science graduate experienced in data processing, analysis, modeling, and 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohNizarr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[MohNizarr]/[MohNizarr]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[MohNizarr]/[MohNizarr]/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[MohNizarr]/[MohNizarr]/output/pacman-contribution-graph.svg">
-</picture>
+### 🐍 Contribution Snake
+![snake gif](https://raw.githubusercontent.com/<MohNizarr>/<repo>/output/github-contribution-grid-snake.svg)
+
